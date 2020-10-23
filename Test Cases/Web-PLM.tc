@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login</description>
+   <name>Web-PLM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eabf67c2-2391-46a2-bb39-487e7b7c419c</testCaseGuid>
+</TestCaseEntity>
